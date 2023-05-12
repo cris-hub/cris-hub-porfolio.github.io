@@ -52,7 +52,7 @@ export class ProfileService {
   also tecnologies in backend such as Java, C#, SQL, MYSQL`
 
   about = "Lover of innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
-  resumeurl = "https://drive.google.com/file/d/1BKKs-ZSpAxopuNtM0oxD7nT3vRgUt6s3/view?usp=share_link"
+  resumeurl = "https://drive.google.com/file/d/1FeTybsiJLqFPcVPbVykeP7ybjA4O2EL6/view?usp=share_link"
 
   skillsData: any = [
     {
@@ -72,8 +72,8 @@ export class ProfileService {
     },
     {
       'id': '4',
-      'skill': 'SQL , MYSQL,MONOGO, FIREBASE',
-      'progress': '8%'
+      'skill': 'SQL , MYSQL,MONGO, FIREBASE',
+      'progress': '80%'
     },
     {
       'id': '5',
